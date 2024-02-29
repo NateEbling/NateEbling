@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateEbling)](https://github.com/anuraghazra/github-readme-stats)
+[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateEbling&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NateEbling/NateEbling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
