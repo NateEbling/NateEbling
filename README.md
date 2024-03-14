@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Nate
 
-[![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateEbling&hide=stars,contribs&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+What I code with:
+
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus) ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?logo=csharp) ![Static Badge](https://img.shields.io/badge/Python-white?logo=python&logoColor=blue)
+
+
+
+
 
 <!--
 **NateEbling/NateEbling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
