@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Nate
-
 <div align=center>
-  <h1>:iphone:SOCIAL</h1>
+<h1>Hi there 👋, I'm Nate</h1>
+  
+<h1>:iphone:SOCIAL</h1>
 
 [![LinkedInBadge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ebling-81820b1a8) 
 [![GmailBadge](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebling.nathan@gmail.com)
-
+[![DiscordBadge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/uses/485586838913024000)
   
   <h1>📚 STACKS</h1></div>
 
