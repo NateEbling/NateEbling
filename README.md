@@ -1,15 +1,14 @@
 <div align=center>
 <h1>Hi there 👋, I'm Nate</h1>
   
-<h1>:iphone:SOCIAL</h1>
+<h2>:iphone:SOCIAL</h2>
 
 [![LinkedInBadge](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathan-ebling-81820b1a8) 
 [![GmailBadge](https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ebling.nathan@gmail.com)
 [![DiscordBadge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/uses/485586838913024000)
   
-  <h1>📚 STACKS</h1></div>
+  <h2>📚 My Stack</h2>
 
-<div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,9 +38,19 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/MacOS-%23000000?style=for-the-badge&logo=apple&logoColor=white">
-    
+  <img src="https://img.shields.io/badge/MacOS-%23000000?style=for-the-badge&logo=apple&logoColor=white"> 
   <br>
+
+  <h2>Current Projects</h2>
+  <img src="https://img.shields.io/badge/My%20First%20game-%23000000?style=for-the-badge">
+  <br><img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus">
+  <br> 2D action-adventure sandbox game developed entirely from scratch
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/MMO%20Automation-%23000000?style=for-the-badge">
+  <br><img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Google%20Apps%20Script-%234285F4?style=flat&logo=googleappsscript&logoColor=white">
+  <br> Ongoing project with automation for MMOs (within ToS)
+
 </div>
 
 
