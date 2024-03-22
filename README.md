@@ -8,8 +8,7 @@
 [![DiscordBadge](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/uses/485586838913024000)
   
   <h2>📚 My Stack</h2>
-
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -43,7 +42,7 @@
 
   <h2>Current Projects</h2>
   <img src="https://img.shields.io/badge/My%20First%20game-%23000000?style=for-the-badge">
-  <br><img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat&logo=cplusplus">
+  <br><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white">
   <br> 2D action-adventure sandbox game developed entirely from scratch
   <br>
   <br>
