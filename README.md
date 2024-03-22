@@ -47,7 +47,7 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/MMO%20Automation-%23000000?style=flat">
-  <br><img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Google%20Apps%20Script-%234285F4?style=flat&logo=googleappsscript&logoColor=white">
+  <br><img src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Apps%20Script-%234285F4?style=flat&logo=googleappsscript&logoColor=white">
   <br> Ongoing project with automation for MMOs (within ToS)
 
 </div>
