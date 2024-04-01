@@ -1,4 +1,5 @@
 <div align=center>
+
 <h1>Hi there 👋, I'm Nate</h1>
   
 <h2>:iphone:SOCIAL</h2>
@@ -44,7 +45,21 @@
   <img src="https://img.shields.io/badge/Game%20Dev-%23000000?style=flat">
   <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-  <br> Creating a custom game engine for my first game: a 2D action-adventure sandbox
+  <br> I'm a long time video-game enthusiast, and with my passion for programming, I've always aspired to create my own game. A few years ago, I started creating my own simple <a href="https://github.com/NateEbling/Engine">game engine</a> from scratch using C# and the MonoGame framework. My goal was to learn more about game development and see what really goes into making a game tick. I eventually reached a sort of stagnation with my MonoGame engine due to a lack of direction, so I took some time to step back and think about where I wanted to take it. Coming up with an idea might've been my hardest challenge so far, but I now have a solid direction to travel for the forseeable future. 
+
+<br>I thought my previous work with MonoGame would be my starting point, but after resuming development, I quickly realized I needed a different flavor engine; MonoGame just couldn't offer me the flexibility I was looking for. This led me to Cookie, my second iteration of game engine. Cookie is written in C++ and I've expanded my scope to encompass way more core engine systems. To name a few, there's now shaders (written in GLSL), batch and premake files to streamline build configurations, and a comprehensive entity component system (ECS). The core libraries I'm using are: OpenGL for graphics + GLFW for windows and context + GLAD for managing OpenGL function pointers. I'm using ImGui for all the GUI components (both editor and game), and GLM for graphics mathematics. 
+
+<br>Cookie is still in active development, and I'm not ready to share any details of my game just yet, but I can say that it will be a 2D action-adventure sandbox. I'm excited to be working on games again, and this time with a better defined and longer term goal to strive for. 
+
+<br>FAQ:
+
+<ins>Wouldn't it be easier to use an exisiting engine to make my game?</ins>
+
+*An all-purpose engine isn't specific enough for the game(s) I want to create. Developing Cookie from scratch means that I can tailor it to my precise needs without having to worry about any bloat or overly complex workarounds to make my systems work.*
+
+<ins>Why switch from C# and MonoGame to C++?</ins>
+
+*MonoGame is a really awesome framework, but I wanted lower level access to my core systems to give me better understanding and control over the engine. With Cookie, there isn't anything outside of my field of view; all of the code is my own and I only rely on my chosen core libraries, so there are fewer dependencies and greater customization. C++ offers the best (in my opinion) access to resources management, so I'll have an easier time tuning Cookie for performance, especially for larger projects.*
   <br>
   <br>
   <img src="https://img.shields.io/badge/MMO%20Automation-%23000000?style=flat">
