@@ -1,6 +1,6 @@
 # Nate
 
-Just a guy who looking to learn and grow as a developer, build awesome projects, and craft really cool software.  
+Just a guy looking to learn and grow as a developer, build awesome projects, and craft really cool software.  
   
 Fun facts:
 - I'm a mechanical engineer
