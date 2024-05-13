@@ -6,7 +6,7 @@ Fun facts:
 - I'm a mechanical engineer
 - I love ultimate frisbee 🥏 and martial arts 🥋
 - (I have a beautiful wife, btw)
-- I'm building a game engine from scratch in <img src="https://github.com/ziglang/logo/blob/master/zig-logo-light.svg" width="50" height="15">
+- I'm building a game engine from scratch in Zig
 
  
 - I've played Guild Wars 2 for 12 years
