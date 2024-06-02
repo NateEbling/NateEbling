@@ -6,7 +6,7 @@ Fun facts:
 - I'm a mechanical engineer
 - I love ultimate frisbee 🥏 and martial arts 🥋
 - (I have a beautiful wife, btw)
-- I'm building a game engine from scratch in Rust :crab:
+- I'm building a game engine from scratch in C
 - I've played Guild Wars 2 for 12 years
   
 
